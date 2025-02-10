@@ -1,0 +1,11 @@
+{
+  "catppuccin": { "branch": "main", "commit": "4965db2d6155c25db4e8417465fc2703fdf4c2b7" },
+  "cinnamon.nvim": { "branch": "master", "commit": "ecd211e46a1d4fb0efffbdb2c2bbd59785605870" },
+  "cmp-nvim-lsp": { "branch": "main", "commit": "99290b3ec1322070bcfb9e846450a46f6efa50f0" },
+  "lazy.nvim": { "branch": "main", "commit": "f15a93907ddad3d9139aea465ae18336d87f5ce6" },
+  "lsp-zero.nvim": { "branch": "v4.x", "commit": "baff1ca10ecad7efe04f02f06d2647dd2ae90074" },
+  "nvim-autopairs": { "branch": "master", "commit": "3d02855468f94bf435db41b661b58ec4f48a06b7" },
+  "nvim-cmp": { "branch": "main", "commit": "12509903a5723a876abd65953109f926f4634c30" },
+  "nvim-lspconfig": { "branch": "master", "commit": "5dca9e1480ebe39f3f96f98a8196f8ee18fad207" },
+  "phpactor": { "branch": "master", "commit": "bf2f9a5f7e3faff79634ec6ae84e818b02c7e033" }
+}
